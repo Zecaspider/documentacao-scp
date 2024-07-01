@@ -1,0 +1,10 @@
+site_name: Documentação da Plataforma de Gestão Documental
+theme:
+  # name: readthedocs
+  # name: mkdocs
+  name: material
+nav:
+- Home: index.md
+- Instalação:
+  - Requisitos: install/requisitos.md
+  - Passo a Passo: install/passo_a_passo.md
